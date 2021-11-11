@@ -5,23 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soonio&label=Profile%20views&color=0e75b6&style=flat" alt="soonio" /> </p>
 
-- 🔭 I’m currently working on [待定](http://iosoon.cn/)
 
 - 🌱 I’m currently learning **golang,php etc**
 
-- 👯 I’m looking to collaborate on [待定](http://iosoon.cn/)
-
-- 🤝 I’m looking for help with [待定](http://iosoon.cn/)
-
-- 👨‍💻 All of my projects are available at [http://iosoon.cn/](http://iosoon.cn/)
-
-- 📝 I regularly write articles on [http://iosoon.cn/](http://iosoon.cn/)
+- 📝 I regularly write articles on [https://notebook.iosoon.cn/](https://notebook.iosoon.cn/)
 
 - 💬 Ask me about **golang,php,linux,python,front-end etc**
 
 - 📫 How to reach me **soonio@qq.com**
-
-- 📄 Know about my experiences [http://iosoon.cn/](http://iosoon.cn/)
 
 - ⚡ Fun fact **http://iosoon.cn/**
 
